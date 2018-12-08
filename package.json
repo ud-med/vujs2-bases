@@ -1,0 +1,12 @@
+{
+  "name": "seccion-02-bases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-sever"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
